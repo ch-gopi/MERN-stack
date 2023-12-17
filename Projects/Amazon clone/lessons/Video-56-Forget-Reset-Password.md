@@ -1,4 +1,4 @@
-# Video-56-Forget-Reset-Password
+#Forget-Reset-Password
 
 1. set base url and mailgun key in .env file
    BASE_URL=http://localhost:3000
